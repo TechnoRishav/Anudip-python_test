@@ -1,7 +1,3 @@
-# Anudip-python_test
-
-# Python program to calculate compound interest
-
 # Function to calculate compound interest
 def calculate_compound_interest(principal_amount, annual_rate, time_period):
     """
